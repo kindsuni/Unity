@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/HPbar.unity
+- path: Assets/3DSound.unity
   isLoaded: 1
   isActive: 1
